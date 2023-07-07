@@ -1,0 +1,3673 @@
+[{
+    "5246": {
+      "id": "5246",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5247": {
+      "id": "5247",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Mastery Point",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Frozen Lockbox",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Mastery Point",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Frozen Lockbox",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Gilded Reliquary of the Bear",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Frozen Lockbox",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Frozen Lockbox",
+          "amount": "2"
+        },
+        {
+          "tier": "8",
+          "name": "Gilded Reliquary of the Bear",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Frozen Lockbox",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Gilded Reliquary of the Bear",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Gilded Reliquary of the Bear",
+          "amount": "1"
+        }
+      ]
+    },
+    "5260": {
+      "id": "5260",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5263": {
+      "id": "5263",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "6",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5266": {
+      "id": "5266",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Blood Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5267": {
+      "id": "5267",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Blood Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5274": {
+      "id": "5274",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Ash Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5277": {
+      "id": "5277",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Flame Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5278": {
+      "id": "5278",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Blood Legion Blood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Branded Minion Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Blood Legion Charged Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Blood Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Grawl Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Blood Legion Blood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Blood Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5280": {
+      "id": "5280",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5282": {
+      "id": "5282",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5284": {
+      "id": "5284",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Recipe: Stormcaller Core",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Charged Quartz Crystal",
+          "amount": "2"
+        },
+        {
+          "tier": "3",
+          "name": "Knight's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Stormcaller Core",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Cleric's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Charged Lodestone",
+          "amount": "5"
+        },
+        {
+          "tier": "7",
+          "name": "Assassin's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Charged Lodestone",
+          "amount": "10"
+        },
+        {
+          "tier": "9",
+          "name": "Berserker's Orichalcum Imbued Inscription",
+          "amount": "1"
+        }
+      ]
+    },
+    "5286": {
+      "id": "5286",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Iron Legion Claw Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Warg Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Iron Legion Onyx Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Iron Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Dredge Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Iron Legion Claw Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Iron Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5287": {
+      "id": "5287",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Iron Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5288": {
+      "id": "5288",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Ash Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Ash Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5290": {
+      "id": "5290",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "200"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "250<!-- tier 3 reward -->"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "250<!-- achievement reward -->"
+        }
+      ]
+    },
+    "5298": {
+      "id": "5298",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Iron Legion Claw Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Warg Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Iron Legion Onyx Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Iron Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Dredge Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Iron Legion Claw Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Iron Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Iron Legion Ore Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Iron Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5304": {
+      "id": "5304",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5305": {
+      "id": "5305",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Flame Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Flame Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5307": {
+      "id": "5307",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5311": {
+      "id": "5311",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5312": {
+      "id": "5312",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Blood Legion Blood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Branded Minion Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Blood Legion Charged Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Blood Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Grawl Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Blood Legion Blood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Blood Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Blood Legion Wood Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Blood Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5314": {
+      "id": "5314",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5317": {
+      "id": "5317",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5319": {
+      "id": "5319",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Flame Legion Dust Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Ogre Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Flame Legion Molten Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Flame Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Sons of Svanir Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Flame Legion Dust Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Flame Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5320": {
+      "id": "5320",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Iron Legion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5322": {
+      "id": "5322",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5325": {
+      "id": "5325",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Recipe: Tengu Blade",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Assassin's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Tengu Echo Blade",
+          "amount": "2"
+        },
+        {
+          "tier": "4",
+          "name": "Assassin's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Tengu Echo Blade",
+          "amount": "4"
+        }
+      ]
+    },
+    "5327": {
+      "id": "5327",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Ash Legion Venom Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Jotun Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Ash Legion Glacial Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Ash Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Wurm Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Ash Legion Venom Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Ash Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5331": {
+      "id": "5331",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Mysterious Journal (Incomplete)",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Completed Journal",
+          "amount": "1"
+        }
+      ]
+    },
+    "5334": {
+      "id": "5334",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Flame Legion Dust Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Ogre Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Flame Legion Molten Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Flame Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Sons of Svanir Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Flame Legion Dust Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Flame Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Flame Legion Cloth Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Flame Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5338": {
+      "id": "5338",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Ash Legion Venom Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Jotun Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Ash Legion Glacial Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Ash Legion Special Mission Document",
+          "amount": "2"
+        },
+        {
+          "tier": "12",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Wurm Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Ash Legion Venom Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Ash Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Ash Legion Leather Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Ash Legion Reward Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5340": {
+      "id": "5340",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    }
+  },{
+    "5347": {
+      "id": "5347",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5349": {
+      "id": "5349",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Charr Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5350": {
+      "id": "5350",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Minor Blessing of Otter",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Ancient Norn Pin",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Major Blessing of Otter",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Ancient Norn Cape Pin",
+          "amount": "1"
+        }
+      ]
+    },
+    "5354": {
+      "id": "5354",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5356": {
+      "id": "5356",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Frost Legion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Sons of Svanir Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Frost Legion Corrupt Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Corrupted Intel Document",
+          "amount": "1"
+        },
+        {
+          "tier": "12",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Icebrood Goliath Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Frost Legion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Frost Legion Spoils Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5364": {
+      "id": "5364",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Frost Legion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Sons of Svanir Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Frost Legion Corrupt Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Corrupted Intel Document",
+          "amount": "1"
+        },
+        {
+          "tier": "12",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Icebrood Goliath Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Frost Legion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Frost Legion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Frost Legion Resource Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Frost Legion Spoils Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5375": {
+      "id": "5375",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Dominion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5377": {
+      "id": "5377",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Charr Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5390": {
+      "id": "5390",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5391": {
+      "id": "5391",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Dominion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Grawl Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Dominion Crystal Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Dominion Intel Document",
+          "amount": "1"
+        },
+        {
+          "tier": "12",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Jotun Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Dominion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Dominion Spoils Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5392": {
+      "id": "5392",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5393": {
+      "id": "5393",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5395": {
+      "id": "5395",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5397": {
+      "id": "5397",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Dominion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5399": {
+      "id": "5399",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5401": {
+      "id": "5401",
+      "tiers": [
+        {
+          "tier": "5",
+          "name": "Dominion Tribune Manica Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5402": {
+      "id": "5402",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5403": {
+      "id": "5403",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Document",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Dominion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Champion Grawl Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "9",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "10",
+          "name": "Dominion Crystal Materials Box",
+          "amount": "1"
+        },
+        {
+          "tier": "11",
+          "name": "Dominion Intel Document",
+          "amount": "1"
+        },
+        {
+          "tier": "12",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "13",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "14",
+          "name": "Champion Jotun Loot Box",
+          "amount": "1"
+        },
+        {
+          "tier": "15",
+          "name": "Dominion Trophy Box",
+          "amount": "1"
+        },
+        {
+          "tier": "16",
+          "name": "Rare Charr Salvage",
+          "amount": "1"
+        },
+        {
+          "tier": "17",
+          "name": "Dominion Crafting Box",
+          "amount": "1"
+        },
+        {
+          "tier": "18",
+          "name": "Dominion Material Box",
+          "amount": "1"
+        },
+        {
+          "tier": "19",
+          "name": "Special Mission Document",
+          "amount": "3"
+        },
+        {
+          "tier": "20",
+          "name": "Dominion Spoils Box",
+          "amount": "1"
+        }
+      ]
+    },
+    "5406": {
+      "id": "5406",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "4",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "5",
+          "name": "Dominion Commendation",
+          "amount": "50"
+        }
+      ]
+    },
+    "5407": {
+      "id": "5407",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5412": {
+      "id": "5412",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Charr Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Charr Commendation",
+          "amount": "150"
+        }
+      ]
+    },
+    "5422": {
+      "id": "5422",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "2",
+          "name": "Frost Legion Commendation",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Frost Legion Commendation",
+          "amount": "150"
+        }
+      ]
+    }
+  },
+  {
+    "5085": {
+      "id": "5085",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1 "
+        },
+        {
+          "tier": "2",
+          "name": "Eitrite Ingot",
+          "amount": "10"
+        },
+        {
+          "tier": "3",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "2 "
+        },
+        {
+          "tier": "4",
+          "name": "Recipe: Eitrite Ingot",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Eternal Ice Shard",
+          "amount": "100"
+        },
+        {
+          "tier": "6",
+          "name": "Great Gift of the Ancestors",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "2 "
+        },
+        {
+          "tier": "8",
+          "name": "Season 4 Currency Box",
+          "amount": "3"
+        },
+        {
+          "tier": "9",
+          "name": "Gift of Ice ",
+          "amount": "1"
+        }
+      ]
+    },
+    "5252": {
+      "id": "5252",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Mastery Point",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Feather-Lined Pouch",
+          "amount": "3"
+        },
+        {
+          "tier": "4",
+          "name": "20-Slot Tengu Bag",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "2"
+        }
+      ]
+    },
+    "5271": {
+      "id": "5271",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Special Mission Scroll Case",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mastery Point",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Special Mission Satchel",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Charr Commendation",
+          "amount": "250"
+        }
+      ]
+    },
+    "5351": {
+      "id": "5351",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Recipe: Amalgamated Draconic Lodestone (mordrem)",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Recipe: Amalgamated Draconic Lodestone (putrid)",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Charr Commendation",
+          "amount": "125"
+        },
+        {
+          "tier": "5",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "2"
+        },
+        {
+          "tier": "6",
+          "name": "Charr Commendation",
+          "amount": "250"
+        },
+        {
+          "tier": "7",
+          "name": "Season 4 Currency Box",
+          "amount": "3"
+        },
+        {
+          "tier": "8",
+          "name": "Gift of Lightning",
+          "amount": "1"
+        }
+      ]
+    },
+    "5565": {
+      "id": "5565",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Prismaticite Crystal",
+          "amount": "5"
+        },
+        {
+          "tier": "2",
+          "name": "Destroyer Lodestone",
+          "amount": "2"
+        },
+        {
+          "tier": "3",
+          "name": "Prismaticite Crystal",
+          "amount": "10"
+        },
+        {
+          "tier": "4",
+          "name": "Destroyer Lodestone",
+          "amount": "5"
+        },
+        {
+          "tier": "5",
+          "name": "Prismaticite Crystal",
+          "amount": "15"
+        },
+        {
+          "tier": "6",
+          "name": "Destroyer Lodestone",
+          "amount": "8"
+        },
+        {
+          "tier": "7",
+          "name": "Prismaticite Crystal",
+          "amount": "20"
+        },
+        {
+          "tier": "8",
+          "name": "Destroyer Lodestone",
+          "amount": "10"
+        }
+      ]
+    },
+    "5570": {
+      "id": "5570",
+      "tiers": [
+        {
+          "tier": "6",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        }
+      ]
+    },
+    "5585": {
+      "id": "5585",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Prismaticite Crystal",
+          "amount": "5"
+        },
+        {
+          "tier": "2",
+          "name": "Corrupted Lodestone",
+          "amount": "2"
+        },
+        {
+          "tier": "3",
+          "name": "Prismaticite Crystal",
+          "amount": "10"
+        },
+        {
+          "tier": "4",
+          "name": "Corrupted Lodestone",
+          "amount": "5"
+        },
+        {
+          "tier": "5",
+          "name": "Prismaticite Crystal",
+          "amount": "15"
+        },
+        {
+          "tier": "6",
+          "name": "Corrupted Lodestone",
+          "amount": "8"
+        },
+        {
+          "tier": "7",
+          "name": "Prismaticite Crystal",
+          "amount": "20"
+        },
+        {
+          "tier": "8",
+          "name": "Corrupted Lodestone",
+          "amount": "10"
+        }
+      ]
+    },
+    "5591": {
+      "id": "5591",
+      "tiers": [
+        {
+          "tier": "6",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        }
+      ]
+    },
+    "5633": {
+      "id": "5633",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Prismatium Ingot",
+          "amount": "5"
+        },
+        {
+          "tier": "3",
+          "name": "Corrupted Lodestone",
+          "amount": "10"
+        },
+        {
+          "tier": "4",
+          "name": "Season 4 Currency Box",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Corrupted Lodestone",
+          "amount": "20"
+        },
+        {
+          "tier": "6",
+          "name": "Prismatium Ingot",
+          "amount": "10"
+        },
+        {
+          "tier": "7",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "2"
+        },
+        {
+          "tier": "8",
+          "name": "Season 4 Currency Box",
+          "amount": "3"
+        }
+      ]
+    },
+    "5647": {
+      "id": "5647",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Prismatium Ingot",
+          "amount": "5"
+        },
+        {
+          "tier": "3",
+          "name": "Destroyer Lodestone",
+          "amount": "10"
+        },
+        {
+          "tier": "4",
+          "name": "Season 4 Currency Box",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Destroyer Lodestone",
+          "amount": "20"
+        },
+        {
+          "tier": "6",
+          "name": "Prismatium Ingot",
+          "amount": "10"
+        },
+        {
+          "tier": "7",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "2"
+        },
+        {
+          "tier": "8",
+          "name": "Season 4 Currency Box",
+          "amount": "3"
+        }
+      ]
+    },
+    "5659": {
+      "id": "5659",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Prismaticite Crystal",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Corrupted Lodestone",
+          "amount": "5"
+        },
+        {
+          "tier": "3",
+          "name": "Prismaticite Crystal",
+          "amount": "15"
+        },
+        {
+          "tier": "4",
+          "name": "Corrupted Lodestone",
+          "amount": "10"
+        },
+        {
+          "tier": "5",
+          "name": "Prismaticite Crystal",
+          "amount": "20"
+        },
+        {
+          "tier": "6",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Prismaticite Crystal",
+          "amount": "25"
+        },
+        {
+          "tier": "8",
+          "name": "Corrupted Lodestone",
+          "amount": "20"
+        }
+      ]
+    },
+    "5666": {
+      "id": "5666",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Prismaticite Crystal",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Destroyer Lodestone",
+          "amount": "5"
+        },
+        {
+          "tier": "3",
+          "name": "Prismaticite Crystal",
+          "amount": "15"
+        },
+        {
+          "tier": "4",
+          "name": "Destroyer Lodestone",
+          "amount": "10"
+        },
+        {
+          "tier": "5",
+          "name": "Prismaticite Crystal",
+          "amount": "20"
+        },
+        {
+          "tier": "6",
+          "name": "Amalgamated Draconic Lodestone",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Prismaticite Crystal",
+          "amount": "25"
+        },
+        {
+          "tier": "8",
+          "name": "Destroyer Lodestone",
+          "amount": "20"
+        }
+      ]
+    }
+  },
+  {
+    "5020": {
+      "id": "5020",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Eitrite Ingot",
+          "amount": "5"
+        },
+        {
+          "tier": "2",
+          "name": "Berserker's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Eitrite Ingot",
+          "amount": "5"
+        }
+      ]
+    },
+    "5035": {
+      "id": "5035",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Gift of the Ancestors (tier 2)",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Mastery Point",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Recipe: Sturdy Boreal Duffel",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Gift of the Ancestors (tier 5)",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Season 4 Currency Box",
+          "amount": "1"
+        },
+        {
+          "tier": "7",
+          "name": "Gift of the Ancestors (ascended)",
+          "amount": "1"
+        },
+        {
+          "tier": "8",
+          "name": "Eternal Ice Shard",
+          "amount": "50"
+        }
+      ]
+    },
+    "5042": {
+      "id": "5042",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Eitrite Ingot",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Berserker's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Eitrite Ingot",
+          "amount": "2"
+        },
+        {
+          "tier": "4",
+          "name": "Eternal Ice Shard",
+          "amount": "5"
+        },
+        {
+          "tier": "5",
+          "name": "Berserker's Orichalcum Imbued Inscription",
+          "amount": "1"
+        },
+        {
+          "tier": "6",
+          "name": "Eitrite Ingot",
+          "amount": "2"
+        },
+        {
+          "tier": "7",
+          "name": "Eternal Ice Shard",
+          "amount": "5"
+        },
+        {
+          "tier": "8",
+          "name": "Berserker's Orichalcum Imbued Inscription",
+          "amount": "1"
+        }
+      ]
+    }
+  },
+  {
+    "5185": {
+      "id": "5185",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Ash Legion Combat Blade",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Recipe: Iron Legion Combat Blade",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Flame Legion Combat Blade",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Steel Warband Combat Blade",
+          "amount": "1"
+        }
+      ]
+    },
+    "5196": {
+      "id": "5196",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Ash Legion Staff",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Recipe: Iron Legion Staff",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Flame Legion Staff",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Steel Warband Staff",
+          "amount": "1"
+        }
+      ]
+    },
+    "5208": {
+      "id": "5208",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Ash Legion Flamesaw",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Recipe: Iron Legion Flamesaw",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Flame Legion Flamesaw",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Steel Warband Flamesaw",
+          "amount": "1"
+        }
+      ]
+    },
+    "5211": {
+      "id": "5211",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Transmutation Charge (item)",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Transmutation Charge (item)",
+          "amount": "3"
+        },
+        {
+          "tier": "4",
+          "name": "Transmutation Charge (item)",
+          "amount": "3"
+        }
+      ]
+    },
+    "5229": {
+      "id": "5229",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Ash Legion Longshot",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Recipe: Iron Legion Longshot",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Flame Legion Longshot",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Steel Warband Longshot",
+          "amount": "1"
+        }
+      ]
+    },
+    "5237": {
+      "id": "5237",
+      "tiers": [
+        {
+          "tier": "2",
+          "name": "Ash Legion Pistol",
+          "amount": "1"
+        },
+        {
+          "tier": "3",
+          "name": "Recipe: Iron Legion Pistol",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Flame Legion Pistol",
+          "amount": "1"
+        },
+        {
+          "tier": "5",
+          "name": "Steel Warband Pistol",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5537": {
+      "id": "5537",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Recipe: Prismatium Ingot",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Prismaticite Crystal",
+          "amount": "2"
+        },
+        {
+          "tier": "3",
+          "name": "Amalgamated Gemstone",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Prismaticite Crystal",
+          "amount": "5"
+        },
+        {
+          "tier": "5",
+          "name": "Amalgamated Gemstone",
+          "amount": "2"
+        },
+        {
+          "tier": "6",
+          "name": "Prismaticite Crystal",
+          "amount": "5"
+        },
+        {
+          "tier": "7",
+          "name": "Amalgamated Gemstone",
+          "amount": "3"
+        },
+        {
+          "tier": "8",
+          "name": "Prismaticite Crystal",
+          "amount": "10"
+        },
+        {
+          "tier": "9",
+          "name": "Amalgamated Gemstone",
+          "amount": "3"
+        }
+      ]
+    }
+  },{
+    "5845": {
+      "id": "5845",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Jagged Twisted Watchwork Scrap",
+          "amount": "15"
+        },
+        {
+          "tier": "2",
+          "name": "Watchwork Sprocket",
+          "amount": "50"
+        },
+        {
+          "tier": "3",
+          "name": "Salvageable Twisted Watchwork Scrap",
+          "amount": "30"
+        },
+        {
+          "tier": "4",
+          "name": "Watchwork Portal Device",
+          "amount": "10"
+        },
+        {
+          "tier": "5",
+          "name": "Daydreamer's Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "6023": {
+      "id": "6023",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "1000 Volatile Magic",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Branded Mass",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Plasma Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },
+  {
+    "5901": {
+      "id": "5901",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "1000 Volatile Magic",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Lump of Mistonium",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Plasma Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },
+  {
+    "5758": {
+      "id": "5758",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Bandit Skeleton Key",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "300 Bandit Crests",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Pact Fleet Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },
+  {
+    "5948": {
+      "id": "5948",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "1000 Volatile Magic",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Kralkatite Ore",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Plasma Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5804": {
+      "id": "5804",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Zephyrite Lockpick",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "300 Geodes",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Pact Fleet Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5884": {
+      "id": "5884",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "1000 Volatile Magic",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Difluorite Crystal",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Plasma Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5829": {
+      "id": "5829",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Bandit Skeleton Key",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "300 Bandit Crests",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Pact Fleet Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5829": {
+      "id": "5829",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Bandit Skeleton Key",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "300 Bandit Crests",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Pact Fleet Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },
+  {
+    "5773": {
+      "id": "5773",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Zephyrite Lockpick",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "300 Geodes",
+          "amount": "1"
+        },
+        {
+          "tier": "4",
+          "name": "Pact Fleet Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "6005": {
+      "id": "6005",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "1000 Volatile Magic",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Inscribed Shard",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Plasma Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5742": {
+      "id": "5742",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Unbound Magic (service)",
+          "amount": "20"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Blood Ruby Strongbox",
+          "amount": "5"
+        },
+        {
+          "tier": "4",
+          "name": "Ley Line Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5743": {
+      "id": "5743",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Unbound Magic (service)",
+          "amount": "20"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Sack of Petrified Wood",
+          "amount": "5"
+        },
+        {
+          "tier": "4",
+          "name": "Ley Line Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5751": {
+      "id": "5751",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Unbound Magic (service)",
+          "amount": "20"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Fire Orchid Strongbox",
+          "amount": "5"
+        },
+        {
+          "tier": "4",
+          "name": "Ley Line Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5756": {
+      "id": "5756",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Unbound Magic (service)",
+          "amount": "20"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Jade Shard Strongbox",
+          "amount": "5"
+        },
+        {
+          "tier": "4",
+          "name": "Ley Line Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5779": {
+      "id": "5779",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Unbound Magic (service)",
+          "amount": "20"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Winterberry Strongbox",
+          "amount": "5"
+        },
+        {
+          "tier": "4",
+          "name": "Ley Line Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5995": {
+      "id": "5995",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "1000 Volatile Magic",
+          "amount": "1"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Mistborn Mote",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Plasma Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5991": {
+      "id": "5991",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Green Prophet Shard",
+          "amount": "25"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Eternal Ice Shard",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Glittering Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "6024": {
+      "id": "6024",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Blue Prophet Shard",
+          "amount": "25"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Eternal Ice Shard",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Glittering Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5886": {
+      "id": "5886",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Red Prophet Shard",
+          "amount": "100"
+        },
+        {
+          "tier": "2",
+          "name": "Green Prophet Shard",
+          "amount": "100"
+        },
+        {
+          "tier": "3",
+          "name": "Blue Prophet Shard",
+          "amount": "100"
+        },
+        {
+          "tier": "4",
+          "name": "Glittering Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5926": {
+      "id": "5926",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Cache Key",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Rare Charr Salvage",
+          "amount": "10"
+        },
+        {
+          "tier": "4",
+          "name": "Glittering Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5869": {
+      "id": "5869",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Cache Key",
+          "amount": "10"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Rare Charr Salvage",
+          "amount": "10"
+        },
+        {
+          "tier": "4",
+          "name": "Glittering Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  },{
+    "5861": {
+      "id": "5861",
+      "tiers": [
+        {
+          "tier": "1",
+          "name": "Prismatium Ingot",
+          "amount": "3"
+        },
+        {
+          "tier": "2",
+          "name": "Mystic Coin",
+          "amount": "3"
+        },
+        {
+          "tier": "3",
+          "name": "Tyrian Defense Seal",
+          "amount": "250"
+        },
+        {
+          "tier": "4",
+          "name": "Glittering Weapon Cache",
+          "amount": "1"
+        }
+      ]
+    }
+  }
+]
