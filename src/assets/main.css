@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Serif:400,700");
+
+/* Our default values set for mobile */
+:root {
+  --color-bg: #FFF;
+  --color-text: #333333;
+  --color-text-light: #999999;
+  --color-primary: #8e3e39;
+  --font-serif: "PT Serif","Times New Roman",serif;
+  --font-sans: Open Sans,sans-serif;
+  --achievement-complete-color: #86c975;
+  --achievement-complete-background-color: #ebffe6;
+  --update-progress-color: #9accd9;
+  --update-progress-background-color: #b3d9e3;
+}
+
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size:16px;
+  font-weight:400;
+  line-height:1.5;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  
+}
+
+.content {
+
+}
+
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  font-weight: normal;
+  color: var(--color-text-light);
+  margin: 1em 0 0.25em
+}
+a {
+  text-decoration: none;
+  color: #4b82b8;
+}
+a:hover {
+  color: #13599e;
+}
+
+i.button  {
+  cursor: pointer;
+  border-radius: 7px;
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  line-height: 1.7rem;
+  vertical-align: middle;
+  text-align: center;
+}
+i.button:hover {
+  background: rgba(0,0,0,0.1);
+}
+img.mastery {
+  width: 22px;
+  height: 22px;
+  vertical-align: top;
+}
+img.ap {
+  width: 24px;
+  height: 24px;
+  vertical-align: top;
+}
+span.ap {
+  padding: 0 0 0 18px;
+  position: relative;
+  color: #9e6d13;
+  font-weight: bold;
+}
+span.ap img.ap {
+  position: absolute;
+  left: -4px;
+  top: -2px;
+}
+
+@keyframes color {
+  0% {
+    background-color: var(--color-primary);
+  }
+  50% {
+    background-color: #ba5c30;
+  }
+  100 {
+    background-color: var(--color-primary);
+  }
+}
